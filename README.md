@@ -15,7 +15,14 @@
   <body>
      <header>
         <div class="logo">
-          
-       </div>
+          <img src="img/devimanuel.png" alt="">
+           </div>
+          <button class="nav-toggle" aria-label="toggle navigation">
+             <span class="hamburger"></span>
+         </button>
+         <nav class="nav">
+           
+         </nav>
+    </header>
   </body>
 </html>
