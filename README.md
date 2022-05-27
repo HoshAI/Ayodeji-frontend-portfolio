@@ -24,8 +24,8 @@
            <ul class="nav__list">
              <li class="nav__item"><a href="#home" class="nav__link">Home</a></li>
              <li class="nav__item"><a href="#services" class="nav__link">My services</a></li>
-             <li class="nav__item"><a href="#" class="nav__link">About me</a></li>
-             <li class="nav__item"><a href="#" class="nav__link">My work</a></li>
+             <li class="nav__item"><a href="#about" class="nav__link">About me</a></li>
+             <li class="nav__item"><a href="#work" class="nav__link">My work</a></li>
            </ul>
          </nav>
     </header>
@@ -63,6 +63,13 @@
         
           <a href="#work" class="btn">My Work</a>
        </Section>
+        
+       
+       <!-- About me -->
+       <Section class="about-me" id="about">
+         <h2 class="Section__title Section__title--about">Who i am</h2>
+         <p class="Section__subtitle Section__subtitle--about"></p>
+         </section>
                
                
   </body>
