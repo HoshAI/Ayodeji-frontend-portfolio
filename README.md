@@ -69,6 +69,13 @@
        <Section class="about-me" id="about">
          <h2 class="Section__title Section__title--about">Who i am</h2>
          <p class="Section__subtitle Section__subtitle--about"></p>
+         
+         <div class="about-me__body">
+           <p></p>
+           <p></p>
+         </div>
+         
+           <img src="img/devAyodeji-02.jpg" alt="Ayodeji smiling into the portrait camera">
          </section>
                
                
