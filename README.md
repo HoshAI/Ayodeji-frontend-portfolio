@@ -77,6 +77,35 @@
          
            <img src="img/devAyodeji-02.jpg" alt="Ayodeji smiling into the portrait camera">
          </section>
+    
+         <!-- My Work -->
+         <Section class="my-work" id="work">
+           <h2 class="Section__title">My work</h2>
+           <p class="Section__Subtitle"></p>
+          
+           <div class="portfolio">
+             <!--Portfolio item 01 -->
+             <a href="#" class="portfolio__item">
+                <img src="portfolio-01.jpg" alt="" class="Porfolio__img">
+             </a>
+             
+             <!--Portfolio item 01 -->
+             <a href="#" class="portfolio__item">
+                <img src="portfolio-01.jpg" alt="" class="Porfolio__img">
+             </a>
+             
+             <!--Portfolio item 01 -->
+             <a href="#" class="portfolio__item">
+                <img src="portfolio-01.jpg" alt="" class="Porfolio__img">
+             </a>
+             
+             <!--Portfolio item 01 -->
+             <a href="#" class="portfolio__item">
+                <img src="portfolio-01.jpg" alt="" class="Porfolio__img">
+             </a>
+             
+         </div>
+    </Section>
                
                
   </body>
