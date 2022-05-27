@@ -46,12 +46,19 @@
             <div class="Service">
                <h3></h3>
                <p>
-            </div> <!-- / service -->
+            </div> <!-- / service --> 
            
-           <div class
-        </div>
-        
-    </Section>
+           <div class="service">
+             <h3></h3>
+             <p>
+           </div> <!-- / Service -->
+           
+           <div class="Service">
+              <h3></h3>
+              <p>
+           </div> <!-- / Service -->
+         
+       </Section>
                
                
   </body>
