@@ -130,6 +130,13 @@
               </a>
            </div>
        </Section>
-               
+        
+    
+      <!-- Footer -->
+      <footer>
+          <!-- emmanuelayodeji09@gmail.com -->
+          <a href="mailto:emmanuelayodeji09@gmail.com" class="footer-link">emmanuelayodeji09@gmail.com</a>
+    </footer>
+    
   </body>
 </html>
