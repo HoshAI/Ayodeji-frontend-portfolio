@@ -136,6 +136,11 @@
       <footer>
           <!-- emmanuelayodeji09@gmail.com -->
           <a href="mailto:emmanuelayodeji09@gmail.com" class="footer-link">emmanuelayodeji09@gmail.com</a>
+        <ul class="Social-list">
+          <li class="social-list__item"><a class="Social-list__link" href="https://twitter.com>a</a><li>
+          <li class="social-list__item"><a class="Social-list__link" href="https://github.com>b</a><li>
+          <li class="social-list__item"><a class="Social-list__link" href="https://linkedin.com>a</a><li>
+        </ul>
     </footer>
     
   </body>
