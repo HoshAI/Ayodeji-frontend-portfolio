@@ -139,7 +139,7 @@
         <ul class="Social-list">
           <li class="social-list__item"><a class="Social-list__link" href="https://twitter.com>a</a><li>
           <li class="social-list__item"><a class="Social-list__link" href="https://github.com>b</a><li>
-          <li class="social-list__item"><a class="Social-list__link" href="https://linkedin.com>a</a><li>
+          <li class="social-list__item"><a class="Social-list__link" href="https://linkedin.com>c</a><li>
         </ul>
     </footer>
     
