@@ -6,6 +6,9 @@ body {
 *::after {
      box-sizing: border-box;
 }
+
+/* Custom properties, update these for your own design *7
+
 :root {
    --ff-primary: 'Source Sans Pro', sans - serif;
    --ff-Secondary: 'Source Code Pro', monospace;
@@ -31,4 +34,15 @@ body {
       --fs-h3: 1.5rem;
       --fs-body: 1.125rem:
      }
+}
+
+/* General styles */
+
+body {
+   background: var(--clr-light);
+   color: var(--clr-dark);
+   margin: 0;
+   font-family: var(--ff-primary);
+   font-size: var(--fs--body);
+   line-height: 1.6;
 }
