@@ -77,7 +77,7 @@
            <p></p>
          </div>
          
-           <img src="img/devAyodeji-02.jpg" alt="Ayodeji smiling into the portrait camera">
+           <img src="img/devAyodeji-02.jpg" alt="Ayodeji smiling into the portrait camera" class="about-me__img">
          </section>
     
          <!-- My Work -->
