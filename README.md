@@ -38,7 +38,7 @@
          Hi, I am <strong> Ayodeji Imanuel</strong>
       </hi>
       <p class="Section__subtitle Section__subtitle--intro">Front-end dev</p>
-      <img src="img" alt="a picture of Ayodeji Imanuel smiling">
+      <img src="img" alt="a picture of Ayodeji Imanuel smiling" class="intro__img">
       </section>
     
       <!--My service -->
