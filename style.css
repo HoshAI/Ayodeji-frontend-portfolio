@@ -251,7 +251,13 @@ nav { display: none; }
    
    .section__subtitle--about {
       grid-column: 1 / -1;
-      grid-row: 2; 
+      grid-row: 2;
+      position: relative;
+      left: -2em;
+      width: calc(100% + 4em);
+      padding-left: 2em;
+      padding-right: calc(200px + 4em);
+   }
    
    .about-me__img {
       grid-area: img;
