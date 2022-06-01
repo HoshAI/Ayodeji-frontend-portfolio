@@ -83,7 +83,7 @@
          <!-- My Work -->
          <Section class="my-work" id="work">
            <h2 class="Section__title">My work</h2>
-           <p class="Section__Subtitle"></p>
+           <p class="Section__Subtitle">A selection of my range of work</p>
           
            <div class="portfolio">
              <!--Portfolio item 01 -->
