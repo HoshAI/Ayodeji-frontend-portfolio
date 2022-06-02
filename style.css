@@ -133,7 +133,23 @@ h3 { font-size: var(--fs-h3) }
    
   /* header */
 
-nav { display: none; }
+header {
+   display: flex;
+   justify-content: space-between;
+   padding: 1em;
+} 
+
+.logo {
+   max-width: 100px;
+}
+
+.nav {
+   position: fixed;
+}
+
+
+
+
 
 /* intro section */
 
@@ -351,9 +367,6 @@ nav { display: none; }
 .social-list__link {
    padding: .5em;
 }
-
-
-
 
 
 
