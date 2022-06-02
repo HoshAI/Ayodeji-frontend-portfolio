@@ -145,6 +145,13 @@ header {
 
 .nav {
    position: fixed;
+   background: var(--clr-dark);
+   color: var(--clr-light);
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   z-index: 100;
 }
 
 
