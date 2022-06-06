@@ -7,8 +7,6 @@ body {
      box-sizing: border-box;
 }
 
-/* Custom properties, update these for your own design *7
-
 :root {
    --ff-primary: 'Source Sans Pro', sans - serif;
    --ff-Secondary: 'Source Code Pro', monospace;
